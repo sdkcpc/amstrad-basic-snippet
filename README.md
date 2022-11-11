@@ -13,4 +13,7 @@ It has no requirements. But it is recommended to use with the [sdkcpc-amstrad-ba
 
 Create initial snippet
 
+### 1.0.0
+
+Change readme
 ---
