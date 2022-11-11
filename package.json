@@ -2,13 +2,25 @@
   "name": "sdkcpc-amstrad-basic-snippet",
   "displayName": "sdkcpc-amstrad-basic-snippet",
   "description": "Code for programming in Amstrad Basic",
+  "publisher": "destroyerdcf",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
   },
+  "homepage": "https://github.com/sdkcpc/amstrad-basic-snippet/blob/main/README.md",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/sdkcpc/amstrad-basic-snippet/issues",
+    "email": "destroyer.dcf@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdkcpc/amstrad-basic-snippet.git"
+  },
   "categories": [
     "Snippets"
   ],
+  "icon": "icon.png",
   "contributes": {
     "snippets": [
       {
